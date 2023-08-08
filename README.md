@@ -15,11 +15,8 @@ The process:
 ----
 
 ### 💻 Tech Stack: 
-<img src="https://img.shields.io/badge/-scikitLearn-3499cd?style=flat&logo=scikitlearn&logoColor=F7931E" height="30" alt = "SciKitLearn" /> <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white" height="30" alt = "Pandas" />
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=4dabcf" height="30" alt = "NumPy" />
-
-
-# RoomMateUofT
-Forked repository of my team's NewHacks hackathon code
-
-View Devpost here: https://devpost.com/software/roommate-w51k46
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffdd55" height="30" alt = "Python" /> <img src="https://img.shields.io/badge/-JavaScript-31322f?style=flat&logo=javascript&logoColor=F7DF1E" height="30" alt = "Javascript"/>
+<img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=282c34" height="30" alt = "ReactJS" /> 
+<img src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white" height="30" alt = "Flask" />
+<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=77b65d" height="30" alt = "NodeJS" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=darkgreen" height="30" alt = "MongoDB" />
