@@ -1,4 +1,6 @@
-![image](https://github.com/maanikg/RoomMateUofT/assets/98338848/1007b874-53f9-44e6-a36e-bd7bc4077af9)# 🏡 RoomMate 
+# 🏡 RoomMate 
+
+![roomMate homepage](https://github.com/maanikg/RoomMateUofT/assets/98338848/1007b874-53f9-44e6-a36e-bd7bc4077af9)
 
 [Check out the full project Devpost here!](https://devpost.com/software/roommate-w51k46)
 
@@ -14,6 +16,8 @@ The process:
 - Set up up a database using `MonogoDB` to act as our backend to the project and to store our users profiles, data, and messages
 - Implemented the AI model to curate roomate recommendations via a `Python` backend using the `pandas` library (reading through the database and computing a compatibility score between 2 people)
 - Integrated the database, backend, and frontend together using the `Flask` and `PyMongo` libraries
+
+This project was created within a 36-hour timeline as part of the UofTHacks X hackathon.
 
 ----
 
